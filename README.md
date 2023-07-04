@@ -1,2 +1,2 @@
-# DDT-Odyssey-Game
+# DDT Odyssey Game
 FYP PROJECT DDT ODYSSEY GAME
